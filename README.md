@@ -43,13 +43,11 @@ It’s pretty simple, and because iOS doesn’t allow automation sharing, we’r
 
 Here are the images of the autoamtion:
 
-1. ![IMG_1960](https://github.com/user-attachments/assets/dc16123a-71e0-45bb-b3ea-c699d8f340d3)
-2. ![IMG_1961](https://github.com/user-attachments/assets/73065162-7d9a-4b36-93b3-9b0f9a12e4e5)
-3. ![IMG_1962](https://github.com/user-attachments/assets/1868b342-4561-4d38-9348-7c8b4ca97c4c)
-4. ![IMG_1963](https://github.com/user-attachments/assets/765281b6-0bbc-4b85-9582-4dfca6d8908d)
-5. ![IMG_1964](https://github.com/user-attachments/assets/f85c8c18-775e-4133-9307-d10afd437915)
-6. ![IMG_1965](https://github.com/user-attachments/assets/aafc2c7e-93cf-40bf-b4bf-d84e877aeb48)
-7. ![IMG_1966](https://github.com/user-attachments/assets/d73e232c-5c95-4812-a876-2cc704a38b59)
-
-
+1. ![IMG_1960](https://github.com/user-attachments/assets/0d57920f-baa3-4efa-af7f-03000f991b5a)
+2. ![IMG_1961](https://github.com/user-attachments/assets/e658dd0a-2bce-4dcd-93f9-f97134f9c647)
+3. ![IMG_1962](https://github.com/user-attachments/assets/d5cb35f2-4b42-494e-a0fa-77516211670e)
+4. ![IMG_1963](https://github.com/user-attachments/assets/c540af31-db81-4a8f-b810-a9fe5c5bfcc2)
+5. ![IMG_1964](https://github.com/user-attachments/assets/81461890-735c-4dd2-bc57-d92d4774a853)
+6. ![IMG_1965](https://github.com/user-attachments/assets/1ecba9eb-2125-4eac-a4b8-298cdc3b0d2d)
+7. ![IMG_1966](https://github.com/user-attachments/assets/9e1f974a-5955-4892-804b-d0ad22c0403b)
 
