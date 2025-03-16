@@ -1,11 +1,11 @@
 # Anti-Smart-Doorbell
-A reverse doorbell - That instead of alarming the person inside the house that someone rang it, it alarms the one who rang the doorbell
+A reverse doorbell - That instead of alarming the person inside the house that someone rang it, it alarms the one who rang the doorbell!
 ## Features
-  -💡 Flashing LED's (to trigger epilepsy)
-  -🥸 Decoy Button (for maximum security)
-  -☢️ Fake Nuclear Symbol (to stay away from the house)
-  -🟢 Coloured Stickers (to camouflage)
-  -📡 Antenna (shows expertism)
+  -💡 Flashing LED's (to trigger epilepsy) 
+  -🥸 Decoy Button (for maximum security) 
+  -☢️ Fake Nuclear Symbol (to stay away from the house) 
+  -🟢 Coloured Stickers (to camouflage) 
+  -📡 Antenna (shows expertism) 
 
 # Hardware
  
