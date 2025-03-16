@@ -26,8 +26,23 @@ A reverse doorbell - That instead of alarming the person inside the house that s
 ## How to run
 
 1. Upload `main.ino` to the Arduino
-2. Install prerequisites for the python script
-3. Run the python script
+2. Connect the Arduino to the computer, make sure to close the arduino ide after uploading the code to make sure the serial port is free for the python to monitor
+
+3. Install prerequisites for the python script
+
+```sh
+pip install requirements.txt
+```
+
+1. Run the python script
+
+```sh
+python main.py
+```
+
+1. Scroll down to the shortcuts automation section
+
+Other more instructions r in the `main.py` file
 
 ## How it works
 
