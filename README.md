@@ -1,6 +1,6 @@
 # Anti-Smart-Doorbell
 
-[![Watch the demo](https://img.youtube.com/vi/kSu0mMqafxo/0.jpg)](https://youtube.com/shorts/kSu0mMqafxo?feature=share)
+[![Watch the demo](https://youtube.com/shorts/kSu0mMqafxo?feature=share)](https://youtube.com/shorts/kSu0mMqafxo?feature=share)
 
 <img width="698" alt="Screenshot 2025-03-16 at 3 42 14 PM" src="https://github.com/user-attachments/assets/5b54bac4-45d5-4d9a-b70a-44d6e0995e4a" />
 
