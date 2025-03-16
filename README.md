@@ -1,16 +1,18 @@
 # Anti-Smart-Doorbell
+
 A reverse doorbell - That instead of alarming the person inside the house that someone rang it, it alarms the one who rang the doorbell!
 
 ## Features
-  -💡 Flashing LED's (to trigger epilepsy)
-  
-  -🥸 Decoy Button (for maximum security)
-  
-  -☢️ Fake Nuclear Symbol (to stay away from the house)
-  
-  -🟢 Coloured Stickers (to camouflage especially from colorblind thieves)
-  
-  -📡 Antenna (shows expertism)
+
+-💡 Flashing LED's (to trigger epilepsy)
+
+-🥸 Decoy Button (for maximum security)
+
+-☢️ Fake Nuclear Symbol (to stay away from the house)
+
+-🟢 Coloured Stickers (to camouflage especially from colorblind thieves)
+
+-📡 Antenna (shows expertism)
 
 ## Hardware
 
@@ -23,7 +25,7 @@ A reverse doorbell - That instead of alarming the person inside the house that s
 
 ## How to run
 
-1. Upload `main.cpp` to the Arduino
+1. Upload `main.ino` to the Arduino
 2. Install prerequisites for the python script
 3. Run the python script
 
