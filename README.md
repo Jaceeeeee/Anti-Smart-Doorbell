@@ -34,7 +34,7 @@ A reverse doorbell - That instead of alarming the person inside the house that s
 3. Install prerequisites for the python script
 
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Run the python script
